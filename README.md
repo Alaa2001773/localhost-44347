@@ -22,8 +22,5 @@ This is an ASP.NET MVC project designed for managing an online Book Store. The a
 - Visual Studio 2019 or later
 - SQL Server 
 
-### Installation
-1. Clone the repository:
-   ```bash
-   https://localhost:44347/
+
   
